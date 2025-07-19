@@ -2,7 +2,7 @@
 ## **Unlocking Logic & Mastering Python Basics**
 Welcome to my personal journey through the fundamentals of Python programming, captured in this repository! 
 
-## About CodingBat: A Playground for Programmers
+## About CodingBat: 
 Before diving into the solutions, it's essential to acknowledge the incredible resource that is CodingBat.
 
 ### What is CodingBat?
