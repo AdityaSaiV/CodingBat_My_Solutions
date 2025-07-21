@@ -3,7 +3,7 @@
 Welcome to my personal journey through the fundamentals of Python programming, captured in this repository! 
 
 ## About CodingBat: 
-Before diving into the solutions, it's essential to acknowledge the incredible resource that is CodingBat.
+Before diving into the solutions, it's essential to acknowledge CodingBat.
 
 ### What is CodingBat?
 CodingBat (codingbat.com) is a free site of live coding problems in Java and Python, created by Nick Parlante, a lecturer in computer science at Stanford University. It's designed to help build coding skills by providing small, focused problems that require logical thinking and practical application of language features. Each problem comes with immediate feedback, making it an excellent tool for self-study and practice.
